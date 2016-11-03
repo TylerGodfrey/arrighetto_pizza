@@ -36,8 +36,8 @@
         </a>
         </div>
         <div class="mycolor col-xs-12 col-lg-6">            
-                <a href="menu_and_pricing.html"> </a>
-        <img src="img/content/calzone.png" alt="calzone" class="centered-image" style="height:350px; width: 350px;"> <div class="caption">A classic pepperoni calzone.</div>
+                <a href="menu_and_pricing.html">
+        <img src="img/content/calzone.png" alt="calzone" class="centered-image" style="height:350px; width: 350px;"> <div class="caption">A classic pepperoni calzone.</div> </a>
         </div>
                 
       </div>
