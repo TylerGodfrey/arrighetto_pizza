@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!--Anthony Russo-->
+
 <html lang="en">
 <head>
     <meta charset="utf-8">

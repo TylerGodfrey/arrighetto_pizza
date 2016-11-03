@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!--Anthony Russo-->
+
 <html lang="en">
 <head>
     <meta charset="utf-8">
@@ -50,7 +50,7 @@
           </div>
           <div class="form-group">
             <div class="col-sm-offset-2 col-sm-10">
-            <a class="btn btn-danger" href="menu_and_pricing.html" role="button">Login</a>
+            <a class="btn btn-danger" href="menu_and_pricing.php" role="button">Login</a>
               
             </div>
           </div>

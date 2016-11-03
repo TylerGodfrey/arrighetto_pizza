@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!--Anthony Russo-->
+
 <html lang="en">
 <head>
     <meta charset="utf-8">
@@ -33,7 +33,7 @@
           <div class="alert alert-info">
           <strong>This Week's Special:</strong>
           <br>
-          <a href="menu_and_pricing.html">Pepperoni Bacon Mozzarella Stromboli</a>
+          <a href="menu_and_pricing.php">Pepperoni Bacon Mozzarella Stromboli</a>
           </div>
 
         </div>

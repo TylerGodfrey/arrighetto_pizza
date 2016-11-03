@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!--Anthony Russo-->
+
 <html lang="en">
 <head>
     <meta charset="utf-8">
@@ -36,20 +36,20 @@
         </div>
         <br>
         <div class="mycolor col-xs-12 col-lg-4">
-                    <a href="menu_and_pricing.html">
+                    <a href="menu_and_pricing.php">
           <img src="img/content/pasta.png" alt="Pasta" style="width: 300px; height: 250px;" class="centered-image"> 
           <div class="caption"> The classic spaghetti and meatballs. </div>
                     </a>
         </div>
         <div class="mycolor col-xs-12 col-lg-4">
-                                <a href="menu_and_pricing.html">
+                                <a href="menu_and_pricing.php">
           <img src="img/content/sub-sandwich.png" alt="sandwich" class="centered-image">
            <div class="caption"> Pepperoni, mozzarella, salami, and romaine between two halves of a fresh submarine bread. One example of our classic submarine sandwiches.
         </div>
             </a>
         </div>
         <div class="mycolor col-xs-12 col-lg-4">
-                    <a href="menu_and_pricing.html">
+                    <a href="menu_and_pricing.php">
           <img src="img/content/stromboli.png" alt="stromboli" class="centered-image">
 
           <div class="caption"> Pepperoni, mozzarella, and salami rolled up in our fresh pizza dough.  One of our classic strombolis. </div> 

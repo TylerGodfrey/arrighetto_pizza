@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!--Anthony Russo-->
+
 <html lang="en">
 <head>
     <meta charset="utf-8">
@@ -31,12 +31,12 @@
         <div>
         <p> We make traditional New York Style pizza and calzones. Each one is made with hand tossed crust and three different all natural cheeses. Our sauce is made from Papa Arighetto's secret recipe crafted by him and his sons. Make sure to try our new Gluten Free and Organic varieties! Made from 100% organic ingredients from American farmers. </p>
         <div class="mycolor col-xs-12 col-lg-6">
-                    <a href="menu_and_pricing.html">
+                    <a href="menu_and_pricing.php">
         <img src="img/content/pizza2.png" alt="pizza" class="centered-image" style="height:350px; width: 350px;"> <div class="caption">A classic pepperoni pizza.</div>
         </a>
         </div>
         <div class="mycolor col-xs-12 col-lg-6">            
-                <a href="menu_and_pricing.html">
+                <a href="menu_and_pricing.php">
         <img src="img/content/calzone.png" alt="calzone" class="centered-image" style="height:350px; width: 350px;"> <div class="caption">A classic pepperoni calzone.</div> </a>
         </div>
                 
